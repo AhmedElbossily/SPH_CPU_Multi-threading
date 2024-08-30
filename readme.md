@@ -1,7 +1,7 @@
 # SPH_CPU_Multi-threading
 ## Description
 
-This project enhances the SPH simulation program developed in the [previous project](https://github.com/AhmedElbossily/SPH_thermal_CPU) by using mullti-threading
+This project enhances the SPH simulation program developed in the [previous project](https://github.com/AhmedElbossily/SPH_Hashing.git) by using mullti-threading
 ## File structure
 
 ```
